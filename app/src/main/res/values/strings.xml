@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidConnectToWebServer</string>
+    <string name="error_space">มีช่องว่าง</string>
 </resources>
